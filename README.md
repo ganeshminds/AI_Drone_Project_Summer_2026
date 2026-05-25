@@ -1,1 +1,1 @@
-# AI_Drone_Project_Summer_2026
+# AI Drone Summer 2026
